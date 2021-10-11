@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="WacomPen:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/WacomPen_jar</output-path>
+    <root id="archive" name="WacomPen.jar">
+      <element id="module-output" name="WacomPen" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/apache/commons/commons-lang3/3.1/commons-lang3-3.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/top/maserhe/jtablet/1.0.0/jtablet-1.0.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/top/maserhe/javacsv/1.0.0/javacsv-1.0.0.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
